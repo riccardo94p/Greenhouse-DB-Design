@@ -1,2 +1,2 @@
 # Greenhouse-DB-Design
-Design and implementation of a large relational database for a greenhouse company.
+Requirements analysis, design and implementation of a large relational (MySQL) database for a greenhouse company, complete with triggers, reporting & analytics functions.
